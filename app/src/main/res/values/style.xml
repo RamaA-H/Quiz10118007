@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Quiz10118007.BigText">
+        <item name="android:textColor">@color/gray_900</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="Theme.Quiz10118007.WhiteBigText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="Theme.Quiz10118007.GreenTest">
+        <item name="android:textColor">@color/primer_green_900</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="Theme.Quiz10118007.WhiteMediumText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/roboto_thin</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="Theme.Quiz10118007.MediumText">
+        <item name="android:textColor">@color/gray_900</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="Theme.Quiz10118007.LightText">
+        <item name="android:textColor">@color/gray_600</item>
+        <item name="android:fontFamily">@font/roboto_light</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="Theme.Quiz10118007.BlueText">
+        <item name="android:textColor">@color/primer_blue</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+
+</resources>
